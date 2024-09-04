@@ -25,7 +25,7 @@
 </p>
 
 
- <h1 align="center">🪀𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻🪀</h1>
+ <h1 align="center">💠𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻💠</h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -34,41 +34,44 @@
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1
 <p align="left">
-<a href="https://prince-pairing-code.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-pink?style=for-the-badge&logo=render"></a>
+<a href="https://prince-bot-pairing-code.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render"></a>
 <p/>
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
 <p align="left">
-<a href="https://gds-md-pair.onrender.com/pair"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-green?style=for-the-badge&logo=render"></a>
+<a href="https://comparative-etti-secktor-455a93b0.koyeb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
 <p/>
-
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3
 <p align="left">
-<a href="https://princebotzsession.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-skyblue?style=for-the-badge&logo=render"></a>
+<a href="https://8wwxl9-8000.csb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=render"></a>
 <p/>
-  
 
-### 𝙌𝙍 𝙎𝘾𝘼𝙉
-<p align="left">
-<a href="https://princebotqr.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-red?style=for-the-badge&logo=render"></a>
-<p/>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
 ### <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXE-MD) 
+<p align="left">
+<a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXE-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
+<p/>
  
- 
- ### <br>
-<p align="left"><a href="https://repl.it/github/PRINCE-GDS/PRINXE-MD"> <img src="https://img.shields.io/badge/Deploy%20To%20Replit-gray?style=for-the-badge&logo=replit" height="25"/></a></p>
 
+### <br>
+<p align="left">
+<a href="https://repl.it/github/PRINCE-GDS/PRINXE-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
+<p/>
 
-   ### <br>
+### <br>
+<p align="left">
+<a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FPRINCE-GDS%2FPRINXE-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render"></a>
+<p/>
+
+### <br>
   <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FPRINCE-GDS%2FPRINXE-MD&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
 
- ### <br>
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FPRINCE-GDS%2FPRINXE-MD) 
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
